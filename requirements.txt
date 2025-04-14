@@ -1,0 +1,12 @@
+pandas
+numpy
+matplotlib
+seaborn
+streamlit
+scikit-learn
+prophet
+pyomo
+
+
+prophet==1.1.4
+pystan==2.19.1.1
